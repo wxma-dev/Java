@@ -1,0 +1,7 @@
+[ 2018-01-18 17:04:18 - Level:I ]-[TestWindow.Controller -> main()] new Controller sucess!
+[ 2018-01-18 17:04:18 - Level:I ]-[TestWindow.Controller -> main()] new JFrame sucess!
+[ 2018-01-18 17:04:18 - Level:I ]-[TestWindow.Controller -> main()] frame.setLayout(new BorderLayout()) sucess!
+[ 2018-01-18 17:04:18 - Level:I ]-[TestWindow.Controller -> main()] frame.setBounds(100, 100, 450, 300); sucess!
+[ 2018-01-18 17:04:18 - Level:I ]-[TestWindow.Controller -> main()] frame.getContentPane().add(testcontroller.getView()); sucess!
+[ 2018-01-18 17:04:18 - Level:I ]-[TestWindow.Controller -> main()] frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE); sucess!
+[ 2018-01-18 17:04:18 - Level:I ]-[TestWindow.Controller -> main()] frame.setVisible(true); sucess!

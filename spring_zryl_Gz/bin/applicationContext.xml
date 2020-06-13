@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<beans
+  xmlns="http://www.springframework.org/schema/beans"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:p="http://www.springframework.org/schema/p"
+  xsi:schemaLocation="http://www.springframework.org/schema/beans  
+  http://www.springframework.org/schema/beans/spring-beans-4.2.xsd"> 
+  
+  <bean id="car" class="spring_zryl.Car"> 
+    <constructor-arg value="大众"></constructor-arg> 
+    <constructor-arg type="java.lang.String"> 
+      <value>白色</value> 
+    </constructor-arg> 
+    <constructor-arg value="中级轿车"></constructor-arg> 
+  </bean> 
+    
+    
+  <bean id="person" class="spring_zryl.Person"> 
+    <constructor-arg index="0" value="李四"></constructor-arg> 
+    <constructor-arg index="1" value="23"></constructor-arg> 
+    <constructor-arg index="2" ref="car"></constructor-arg> 
+  </bean> 
+</beans> 

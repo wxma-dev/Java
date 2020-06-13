@@ -1,0 +1,1 @@
+netsh wlan disconnect interface="无线网络连接 2"

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/WIFI_Do/src/WIFI_AUTO_CONNECT/CONFIG.java"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="WIFI_AUTO_CONNECT.CONFIG"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="WIFI_Do"/>
+</launchConfiguration>

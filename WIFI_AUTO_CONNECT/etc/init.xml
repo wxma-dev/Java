@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+	<net id="1">
+	 	<flag_network>NW</flag_network>
+	    <interface>无线网络连接 2</interface>
+	    <ssid>BOSZJKF</ssid>
+	</net>
+	<net id="2">
+		<flag_network>WW</flag_network>
+	    <interface>无线网络连接</interface>
+	    <ssid>iPhone</ssid>
+	</net>    
+</configuration>

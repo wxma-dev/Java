@@ -1,0 +1,13 @@
+<classpath>
+  <container id="spring_println_string!org.eclipse.jst.j2ee.internal.web.container">
+    <entry id="E:/Java_WorkSpace/spring_println_string/WebContent/WEB-INF/lib/com.springsource.com.mchange.v2.c3p0-0.9.1.2.jar">
+      <source-attachment-path>E:/Java_WorkSpace/spring_println_string/WebContent/WEB-INF/lib/com.springsource.com.mchange.v2.c3p0-0.9.1.2.jar</source-attachment-path>
+    </entry>
+    <entry id="E:/Java_WorkSpace/spring_println_string/WebContent/WEB-INF/lib/com.springsource.org.apache.commons.logging-1.1.1.jar">
+      <source-attachment-path>E:/Java_WorkSpace/spring_println_string/WebContent/WEB-INF/lib/com.springsource.org.apache.commons.logging-1.1.1.jar</source-attachment-path>
+    </entry>
+    <entry id="E:/Java_WorkSpace/spring_println_string/WebContent/WEB-INF/lib/com.springsource.net.sf.cglib-2.2.0.jar">
+      <source-attachment-path>E:/Java_WorkSpace/spring_println_string/WebContent/WEB-INF/lib/com.springsource.net.sf.cglib-2.2.0.jar</source-attachment-path>
+    </entry>
+  </container>
+</classpath>

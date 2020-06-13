@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;ThreadSocket_Tool&apos; to &apos;MultiWindow_SocketTool&apos;" description="Rename resource &apos;ThreadSocket_Tool&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/ThreadSocket_Tool" name="MultiWindow_SocketTool" stamp="1516678245849" updateReferences="true"/>
+</session>

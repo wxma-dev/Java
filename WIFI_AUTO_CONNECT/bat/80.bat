@@ -1,0 +1,1 @@
+netsh wlan show network > netsh_wlan_show_network.txt

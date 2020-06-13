@@ -1,0 +1,41 @@
+
+系统上有 2 个接口: 
+
+    名称                   : 无线网络连接 2
+    描述                   : TP-LINK Wireless USB Adapter
+    GUID                   : 3c4ed8dc-a627-46fa-9bf1-f57c6792501a
+    物理地址               : 30:b4:9e:9f:e8:28
+    状态                   : 已连接
+    SSID                   : BOSZJKF
+    BSSID                  : 20:0b:c7:24:58:61
+    网络类型               : 结构
+    无线电类型             : 802.11n
+    身份验证               : WPA2 - 个人
+    密码                   : CCMP
+    连接模式               : 配置文件
+    信道                   : 11
+    接收速率(Mbps)         : 65
+    传输速率 (Mbps)        : 65
+    信号                   : 82%
+    配置文件               : BOSZJKF 
+
+    名称                   : 无线网络连接
+    描述                   : Intel(R) Dual Band Wireless-AC 7265
+    GUID                   : 66ae4d86-b843-48e5-8ac4-879b202cd77f
+    物理地址               : 88:78:73:a2:d2:ee
+    状态                   : 已连接
+    SSID                   : iPhone
+    BSSID                  : ea:1e:e7:c0:49:2b
+    网络类型               : 结构
+    无线电类型             : 802.11n
+    身份验证               : WPA2 - 个人
+    密码                   : CCMP
+    连接模式               : 配置文件
+    信道                   : 1
+    接收速率(Mbps)         : 72.2
+    传输速率 (Mbps)        : 72.2
+    信号                   : 99%
+    配置文件               : iPhone 
+
+    承载网络状态  : 未启动
+

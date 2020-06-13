@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="lib/com.springsource.com.mchange.v2.c3p0-0.9.1.2.jar"/>
+	<classpathentry kind="lib" path="lib/com.springsource.net.sf.cglib-2.2.0.jar"/>
+	<classpathentry kind="lib" path="lib/com.springsource.org.apache.commons.logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/mysql-connector-java-5.1.13-bin.jar"/>
+	<classpathentry kind="lib" path="lib/libs/spring-aop-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/libs/spring-aspects-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/libs/spring-beans-4.2.4.RELEASE.jar" sourcepath="E:/Java_WorkSpace/spring_zryl/lib/libs/spring-beans-4.2.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="lib/libs/spring-context-4.2.4.RELEASE.jar" sourcepath="E:/Java_WorkSpace/spring_zryl/lib/libs/spring-context-4.2.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="lib/libs/spring-context-support-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/libs/spring-core-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/libs/spring-expression-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/libs/spring-instrument-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/libs/spring-instrument-tomcat-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/libs/spring-jdbc-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/libs/spring-jms-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/libs/spring-messaging-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/libs/spring-orm-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/libs/spring-oxm-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/libs/spring-test-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/libs/spring-tx-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/libs/spring-web-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/libs/spring-webmvc-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/libs/spring-webmvc-portlet-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/libs/spring-websocket-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

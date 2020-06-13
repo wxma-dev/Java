@@ -1,0 +1,21 @@
+[ 2018-01-18 16:00:36 - Level:I ]-[TestWindow.Controller -> main()] new Controller sucess!
+[ 2018-01-18 16:00:36 - Level:I ]-[TestWindow.Controller -> main()] new JFrame sucess!
+[ 2018-01-18 16:00:36 - Level:I ]-[TestWindow.Controller -> main()] frame.setLayout(new BorderLayout()) sucess!
+[ 2018-01-18 16:00:36 - Level:I ]-[TestWindow.Controller -> main()] frame.setBounds(100, 100, 450, 300); sucess!
+[ 2018-01-18 16:00:36 - Level:I ]-[TestWindow.Controller -> main()] frame.getContentPane().add(testcontroller.getView()); sucess!
+[ 2018-01-18 16:00:36 - Level:I ]-[TestWindow.Controller -> main()] frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE); sucess!
+[ 2018-01-18 16:00:36 - Level:I ]-[TestWindow.Controller -> main()] frame.setVisible(true); sucess!
+[ 2018-01-18 16:00:37 - Level:I ]-[TestWindow.Model -> getInfo()] Yjz=字符
+[ 2018-01-18 16:00:37 - Level:I ]-[TestWindow.Model -> getInfo()] Mjz=字符
+[ 2018-01-18 16:00:37 - Level:I ]-[TestWindow.Model -> iGetjz()] -----iGetjz---start-----
+[ 2018-01-18 16:00:37 - Level:I ]-[TestWindow.Model -> iGetjz()] 字符
+[ 2018-01-18 16:00:37 - Level:I ]-[TestWindow.Model -> iGetjz()] -----iGetjz---end-----
+[ 2018-01-18 16:00:37 - Level:I ]-[TestWindow.Model -> iGetjz()] -----iGetjz---start-----
+[ 2018-01-18 16:00:37 - Level:I ]-[TestWindow.Model -> iGetjz()] 字符
+[ 2018-01-18 16:00:37 - Level:I ]-[TestWindow.Model -> iGetjz()] -----iGetjz---end-----
+[ 2018-01-18 16:00:37 - Level:I ]-[TestWindow.Model -> getInfo()] iYjz=-1
+[ 2018-01-18 16:00:37 - Level:I ]-[TestWindow.Model -> getInfo()] jMjz=-1
+[ 2018-01-18 16:00:37 - Level:I ]-[TestWindow.Model -> getInfo()] iYjz=-1
+[ 2018-01-18 16:00:37 - Level:I ]-[TestWindow.Model -> getInfo()] jMjz=-1
+[ 2018-01-18 16:00:37 - Level:I ]-[TestWindow.Model -> getInfo()] 源进制与目标进制相同，则不用转换
+[ 2018-01-18 16:00:37 - Level:I ]-[TestWindow.Model -> getInfo()] q

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ExternalProjectImportWizard">
+		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_NESTED_PROJECTS"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="E:\Java_WorkSpace\ccym"/>
+			<item value="E:\javaweb项目的下载\csdn下载的web项目\ccym\ccym"/>
+			<item value="E:\javaweb项目的下载\csdn下载的web项目\book管理系统（java web）\2016-10-19\Article"/>
+			<item value="E:\Java_WorkSpace\JavaPrj_11"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+	<section name="NewWizardAction">
+		<item value="org.eclipse.jdt.ui.wizards.JavaProjectWizard" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+		</list>
+	</section>
+	<section name="CleanDialogSettings">
+		<item value="500" key="DIALOG_WIDTH"/>
+		<item value="104" key="DIALOG_Y_ORIGIN"/>
+		<item value="433" key="DIALOG_X_ORIGIN"/>
+		<item value="390" key="DIALOG_HEIGHT"/>
+		<item value="true" key="TOGGLE_SELECTED"/>
+	</section>
+</section>

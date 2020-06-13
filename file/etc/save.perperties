@@ -1,0 +1,19 @@
+#test
+#Thu Jan 18 13:22:34 CST 2018
+max=1000
+dbTable=mytable 
+dbUserName=root
+min=999
+dbPort=localhost 
+dbPassword=root 
+databaseName=mydb 
+ip=192.168.0.9 
+#The New properties file
+#Thu Jan 18 15:39:48 CST 2018
+dbTable=mytable 
+phone=10086
+dbUserName=root
+dbPort=localhost 
+dbPassword=root 
+databaseName=mydb 
+ip=192.168.0.9 

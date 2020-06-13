@@ -1,0 +1,57 @@
+ 
+接口名称 : 无线网络连接 2 
+当前有 5 个网络可见。 
+
+SSID 1 : BOSZJKF
+    Network type            : 结构
+    身份验证                : WPA2 - 个人
+    加密                    : CCMP 
+
+SSID 2 : 
+    Network type            : 结构
+    身份验证                : WPA2 - 企业
+    加密                    : CCMP 
+
+SSID 3 : iPhone
+    Network type            : 结构
+    身份验证                : WPA2 - 个人
+    加密                    : CCMP 
+
+SSID 4 : Xiaomi_54A4
+    Network type            : 结构
+    身份验证                : WPA2 - 个人
+    加密                    : CCMP 
+
+SSID 5 : shen
+    Network type            : 结构
+    身份验证                : 开放式
+    加密                    : 无 
+ 
+接口名称 : 无线网络连接 
+当前有 5 个网络可见。 
+
+SSID 1 : 
+    Network type            : 结构
+    身份验证                : WPA2 - 企业
+    加密                    : CCMP 
+
+SSID 2 : iPhone
+    Network type            : 结构
+    身份验证                : WPA2 - 个人
+    加密                    : CCMP 
+
+SSID 3 : shen
+    Network type            : 结构
+    身份验证                : 开放式
+    加密                    : 无 
+
+SSID 4 : Xiaomi_54A4
+    Network type            : 结构
+    身份验证                : WPA2 - 个人
+    加密                    : CCMP 
+
+SSID 5 : HUAWEI-2689
+    Network type            : 结构
+    身份验证                : WPA2 - 个人
+    加密                    : CCMP 
+

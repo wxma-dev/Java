@@ -1,0 +1,1 @@
+netsh wlan connect interface="无线网络连接 2" ssid="BOSZJKF" name="BOSZJKF"

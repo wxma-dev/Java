@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Socket_Tool&apos; to &apos;ThreadSocket_Tool&apos;" description="Rename resource &apos;Socket_Tool&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/Socket_Tool" name="ThreadSocket_Tool" stamp="1515405464392" updateReferences="true"/>
+</session>

@@ -1,0 +1,1 @@
+netsh wlan show interface > netsh_wlan_show_interface.txt
